@@ -7,4 +7,6 @@
 **Kittipoom** | **Chooamorn** | @kittipoom777 | **61070015**
  | | | |
 **Nichanan** | **Sakornnoi** | @DREKGON | **61070057**
+# Assistant Teacher
+**ผศ. ดร. กิติ์สุชาต พสุภา**|**ผศ. ดร. ปานวิทย์ ธุวะนุติ**
 
