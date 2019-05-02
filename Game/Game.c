@@ -1,28 +1,28 @@
 #include "raylib.h"
-#define SUPPORT_FILEFORMAT_JPG
 int main()
 {
     // Initialization
     //--------------------------------------------------------------------------------------
     int screenWidth = 800;
     int screenHeight = 600;
-
+    int i = 0;
     InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
-    
     bool start = false;
     bool end = false;
     
+    int screen = false;
+    
     SetTargetFPS(60);
-    Image image1 = LoadImage("image/MAIN.jpg");
-    Image image2 = LoadImage("image/1.jpg");
+    Image image1 = LoadImage("image/MAIN.png");
+    Image image2 = LoadImage("image/1.png");
     Image image3 = LoadImage("image/2.png");
     Image image4 = LoadImage("image/3.png");
-    Image image5 = LoadImage("image/4.jpg");
-    Image image6 = LoadImage("image/5.jpg");
-    Image image7 = LoadImage("image/6.jpg");
-    Image image8 = LoadImage("image/7.jpg");
-    Image image9 = LoadImage("image/8.jpg");
-    Image image10 = LoadImage("image/end.jpg.png");
+    Image image5 = LoadImage("image/4.png");
+    Image image6 = LoadImage("image/5.png");
+    Image image7 = LoadImage("image/6.png");
+    Image image8 = LoadImage("image/7.png");
+    Image image9 = LoadImage("image/8.png");
+    Image image10 = LoadImage("image/end.png");
     
     ImageResize(&image1, 800, 600);
     ImageResize(&image2, 800, 600);
@@ -65,9 +65,9 @@ int main()
         if (!start){ 
             BeginDrawing();
                 if (end == 0){
-                    DrawText("100% GetPro!", 310, 200, 50, MAROON);
-                    DrawText("Any click to start", 330, 300, 30, MAROON);
                     DrawTexture(texture1, 0, 0, WHITE);
+                    DrawText("Fudenunt", 300, 200, 50, MAROON);
+                    DrawText("Any click to start", 270, 300, 30, MAROON);
                     if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON) || IsMouseButtonPressed(MOUSE_MIDDLE_BUTTON) || IsMouseButtonPressed(MOUSE_RIGHT_BUTTON)) 
                     {
                         start = !start;
@@ -75,7 +75,17 @@ int main()
                 }
         }
         EndDrawing();
-        //----------------------------------------------------------------------------------
+        if (start){
+            DrawRectangle(20, 350, 150, 50, PINK);
+            DrawRectangle(0, 400, 800, 200, PINK);
+            if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON) || IsMouseButtonPressed(MOUSE_MIDDLE_BUTTON) || IsMouseButtonPressed(MOUSE_RIGHT_BUTTON)) 
+                    {
+                        i++;
+                    }
+            if(i == 1){
+                DrawText("Duel", 300, 200, 50, MAROON);
+            }
+        }
     }
 
     // De-Initialization
