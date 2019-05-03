@@ -20,7 +20,7 @@
 ------------ | ------------- | ------------- | -------------
 **Channut** | **Wongwiwattana** | @NutnightCore | **61070039**
 **Kittipoom** | **Chooamorn** | @kittipoom777 | **61070015**
- | | | |
+**นาย ชิตวร**|**สถาพรวณิชย์** | @Chitawon | **61070041**
 **Nichanan** | **Sakornnoi** | @DREKGON | **61070057**
 # Assistant Teacher
 **รศ.ดร. กิติ์สุชาต พสุภา**|**รศ.ดร. ปานวิทย์ ธุวะนุติ**
