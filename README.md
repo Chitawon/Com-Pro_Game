@@ -11,17 +11,19 @@
 
 การเปิดใช้งาน Game จะเข้าผ่าน launcher Game.exe ครับ
 # How it works
-[![Watch the video](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image/MAIN.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image/MAIN.png)](https://youtu.be/X91Jo9Z2RW8)
+
+กดที่ภาพเพื่อดูคลิปวีดีโอ
 
 # Poster
 ![Image of Poster](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image%202/3.jpg)
 # Team Members
 ชื่อ | นามสกุล | GitHub Username | รหัสนักศึกษา
 ------------ | ------------- | ------------- | -------------
-**Channut** | **Wongwiwattana** | @NutnightCore | **61070039**
-**Kittipoom** | **Chooamorn** | @kittipoom777 | **61070015**
+**นาย ชาญนัส** | **วงศ์วิวัฒนา** | @NutnightCore | **61070039**
+**นาย กิตติภูมิ** | **ชูอมร** | @kittipoom777 | **61070015**
 **นาย ชิตวร**|**สถาพรวณิชย์** | @Chitawon | **61070041**
-**Nichanan** | **Sakornnoi** | @DREKGON | **61070057**
+**นางสาวณิชนันทน์** | **สาครน้อย** | @DREKGON | **61070057**
 # Assistant Teacher
 **รศ.ดร. กิติ์สุชาต พสุภา**|**รศ.ดร. ปานวิทย์ ธุวะนุติ**
 ------------ | -------------
