@@ -20,7 +20,7 @@
  | | | |
 **Nichanan** | **Sakornnoi** | @DREKGON | **61070057**
 # Assistant Teacher
-**ผศ. ดร. กิติ์สุชาต พสุภา**|**ผศ. ดร. ปานวิทย์ ธุวะนุติ**
+**รศ.ดร. กิติ์สุชาต พสุภา**|**รศ.ดร. ปานวิทย์ ธุวะนุติ**
 ------------ | -------------
  ![Image of Assistant Teacher](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image%202/Kitsuchart-300x300.jpg)| ![Image of Assistant Teacher](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image%202/Panwit-300x300.jpg)
 
