@@ -1,6 +1,6 @@
 # Com-Pro_Game
 # Introduction
-กลุ่ม Life is game ของเราได้ทำการสร้างเกมส์ ซึ่งเป็นเกมส์แนว visual novel เป็นเกมส์แนว คล้ายๆกับการอ่านนิยาย ซึ่งเกมส์นี้พวกได้ทำการสร้างมาจากภาษา C ในการเขียน โดยมี library raylib เป็นตัวช่วยครับ 
+กลุ่ม Life is game ของเราได้ทำการสร้างเกมส์ ซึ่งเป็นเกมส์แนว visual novel เป็นเกมส์แนว คล้ายๆกับการอ่านนิยาย ซึ่งเกมส์นี้พวกเราได้ทำการสร้างมาจากภาษา C ในการเขียน โดยมี library raylib เป็นตัวช่วยครับ 
 # How to openfile
 
 ![Image of Game](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image%202/1.JPG)
