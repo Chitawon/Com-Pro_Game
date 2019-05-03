@@ -10,6 +10,9 @@
 ![Image of Game](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image%202/2.JPG)
 
 การเปิดใช้งาน Game จะเข้าผ่าน launcher Game.exe ครับ
+# How it works
+[![Watch the video](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image/MAIN.png)](https://youtu.be/vt5fpE0bzSY)
+
 # Poster
 ![Image of Poster](https://github.com/Chitawon/Com-Pro_Game/blob/master/Game/image%202/3.jpg)
 # Team Members
